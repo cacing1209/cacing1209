@@ -50,7 +50,17 @@
 
 ### 💬 Let's Connect
 
-- 🔗 [GitHub](https://github.com/cacing1209)
+<p align="left">
+  <a href="https://github.com/cacing1209" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mzk.dq" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/vGtuW5Qp" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 ---
 
 <p align="center">
