@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **ESP32**, **MQTT**, and **WiFiManager**
+- 🌱 Currently learning **ESP**, **MQTT**, and **IOT controller**
 - 🛠️ Building things with **Arduino**, **PlatformIO**, and **C** or **C++**
 - 🎮 Sometimes playing with game dev & Wokwi simulator
 
@@ -27,7 +27,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cacing1209&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cacing1209&show_icons=true&theme=tokyonight&hide=prs" />
 </p>
 
 ---
