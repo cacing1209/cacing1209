@@ -29,9 +29,9 @@
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
 │   AGENT    : cacing1209                             │
-│   SPECIES  : lanang                      │
+│   SPECIES  : lanang                                 │
 │   STACK    : ESP32 / ESP8266 / Arduino / C++        │
-│   PROTOCOL : MQTT · BLE · WiFi · I2C · SPI · UART  │
+│   PROTOCOL : MQTT · BLE · WiFi · I2C · SPI · UART   │
 │   STATUS   : [ always compiling ]                   │
 │   LOCATION : somewhere with too many ESP32s         │
 │                                                     │
@@ -85,8 +85,6 @@
 </div>
 
 <details>
-<summary><code>> cat .github/workflows/snake.yml &nbsp;← setup snake dulu</code></summary>
-
 <br>
 
 ```yaml
